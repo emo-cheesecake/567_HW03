@@ -1,5 +1,5 @@
 # Tamara Gonzalez Ibarra
-# SSW 567 - Fall 2025
+# SSW 567
 
 import unittest
 import math
