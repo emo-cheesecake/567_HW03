@@ -1,5 +1,5 @@
 # Tamara Gonzalez Ibarra
-# SSW 567 - Fall 2025
+# SSW 567 - Spring 2026
 
 import requests
 
